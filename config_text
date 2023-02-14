@@ -1,1 +1,3 @@
-this is app config text
+{
+  "web_url" : "https://go.sofan.in"
+}
